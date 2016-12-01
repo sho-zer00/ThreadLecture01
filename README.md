@@ -1,1 +1,1 @@
-ThreadLectureで使うHandlerを主に使用して作るAndroidProjectです
+ThreadLectureで使うMessageを主に使用して作るAndroidProjectです
