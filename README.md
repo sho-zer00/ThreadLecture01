@@ -1,0 +1,1 @@
+ThreadLectureで使うHandlerを主に使用して作るAndroidProjectです
